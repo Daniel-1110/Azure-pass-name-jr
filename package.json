@@ -1,0 +1,31 @@
+{
+  "name": "azure-pass-name-jr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Daniel-1110/Azure-pass-name-jr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-1110/Azure-pass-name-jr/issues"
+  },
+  "homepage": "https://github.com/Daniel-1110/Azure-pass-name-jr#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "json": "^11.0.0",
+    "pg": "^8.13.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.6"
+  }
+}
